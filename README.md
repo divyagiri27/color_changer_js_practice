@@ -26,9 +26,6 @@ The mini color changer web page is a simple project built using HTML, CSS, and J
 
 ## Credits
 
-- Tutorial by [Hitesh Choudhary](https://www.youtube.com/channel/UCXgGY0wkgOzynnHvSEVmE3A)
-- Base code inspired by the tutorial: [Mini Color Changer](https://youtu.be/EGqHVjU-fas?feature=shared)
+- Tutorial by [Chai Aur Code](https://www.youtube.com/@chaiaurcode)
+- Base code inspired by the tutorial: [JS Project for beginners](https://youtu.be/EGqHVjU-fas?feature=shared)
 
-Feel free to contribute to this project or customize it according to your needs. If you encounter any issues or have suggestions for improvement, please create an issue or pull request.
-
-Happy coding! 🚀
